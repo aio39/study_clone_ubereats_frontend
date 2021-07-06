@@ -8,9 +8,9 @@
 //==============================================================
 
 export enum UserRole {
-  Client = 'Client',
-  Delivery = 'Delivery',
-  Owner = 'Owner',
+  Client = "Client",
+  Delivery = "Delivery",
+  Owner = "Owner",
 }
 
 export interface CreateAccountInput {
